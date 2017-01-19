@@ -1,3 +1,6 @@
+#Course: Data Ploting
+Part of John Hopkins' University Data Science specialisation (https://www.coursera.org/specializations/jhu-data-science)
+
 ## Introduction
 
 This assignment uses data from
